@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there 👋, I'm Safwan Rahman
 
-<!--
-**safwanmrahman/safwanmrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at UC Santa Barbara focused on building **systems that combine strong algorithmic foundations with real-world scalability**.
 
-Here are some ideas to get you started:
+My work spans **interactive algorithm visualizations, simulation systems, and large-scale ML infrastructure** — from designing graph-based tools to building GPU-backed Kubernetes clusters for machine learning workloads. I’m especially interested in how theoretical concepts like optimization, probability, and graph traversal translate into **efficient, production-ready systems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills & Tools 🛠️
+
+- **Languages:** C++, C, Python, Java, JavaScript, SQL, Bash, MATLAB  
+- **Core CS:** Data Structures & Algorithms, Graph Theory, Probability & Statistics, Linear Algebra, Optimization  
+- **Machine Learning:** PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV  
+- **Systems & Infra:** Kubernetes, Docker, Kubeflow, Linux/Unix, AWS EC2  
+- **Data & Scientific Computing:** NumPy, Pandas, Matplotlib, SymPy, CVXPY  
+- **Full Stack:** React, Node.js, HTML/CSS  
+- **Tools:** Git, GitHub, MySQL, LaTeX  
+
+---
+
+## Featured Projects 👨‍💻
+
+### ♠️ Poker Hand Probability Simulator  
+Simulates poker hands using **probabilistic / Monte Carlo techniques**  
+Bridges probability theory with real-world decision making  
+🔗 https://github.com/safwanmrahman/poker-hand-probability-simulator  
+
+---
+
+### 🧭 Pathfinding Visualizer  
+Interactive visualization of algorithms like **BFS, DFS, Dijkstra’s, and A\***  
+Shows how graph traversal works step-by-step in real time  
+🔗 https://github.com/safwanmrahman/pathfinding-visualizer  
+
+---
+
+## GitHub Stats 📊
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=safwanmrahman&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safwanmrahman&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## Contact Information 📫
+
+- 📧 Email: safwanmrahman@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/safwanrahman14  
+- 🐙 GitHub: https://github.com/safwanmrahman  
+
+---
