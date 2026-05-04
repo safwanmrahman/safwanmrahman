@@ -29,15 +29,15 @@ My work spans **interactive algorithm visualizations, simulation systems, and la
 ## Featured Projects 👨‍💻
 
 ### ♠️ Poker Hand Probability Simulator  
-Simulates poker hands using **probabilistic / Monte Carlo techniques**  
-Bridges probability theory with real-world decision making  
+- Simulates poker hands using **probabilistic / Monte Carlo techniques**  
+- Bridges probability theory with real-world decision making  
 🔗 https://github.com/safwanmrahman/poker-hand-probability-simulator  
 
 ---
 
 ### 🧭 Pathfinding Visualizer  
-Interactive visualization of algorithms like **BFS, DFS, Dijkstra’s, and A\***  
-Shows how graph traversal works step-by-step in real time  
+- Interactive visualization of algorithms like **BFS, DFS, Dijkstra’s, and A\***  
+- Shows how graph traversal works step-by-step in real time  
 🔗 https://github.com/safwanmrahman/pathfinding-visualizer  
 
 ---
