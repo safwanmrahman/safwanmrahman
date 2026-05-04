@@ -18,6 +18,14 @@ My work spans **interactive algorithm visualizations, simulation systems, and la
 
 ---
 
+## Contact Information 📫
+
+- 📧 Email: safwanmrahman@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/safwanrahman14  
+- 🐙 GitHub: https://github.com/safwanmrahman  
+
+---
+
 ## Featured Projects 👨‍💻
 
 ### ♠️ Poker Hand Probability Simulator  
@@ -31,22 +39,5 @@ Bridges probability theory with real-world decision making
 Interactive visualization of algorithms like **BFS, DFS, Dijkstra’s, and A\***  
 Shows how graph traversal works step-by-step in real time  
 🔗 https://github.com/safwanmrahman/pathfinding-visualizer  
-
----
-
-## GitHub Stats 📊
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safwanmrahman&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safwanmrahman&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-## Contact Information 📫
-
-- 📧 Email: safwanmrahman@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/safwanrahman14  
-- 🐙 GitHub: https://github.com/safwanmrahman  
 
 ---
