@@ -41,3 +41,9 @@ Shows how graph traversal works step-by-step in real time
 🔗 https://github.com/safwanmrahman/pathfinding-visualizer  
 
 ---
+
+## Activity 📈
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=safwanmrahman&theme=tokyo-night&hide_border=true" />
+</p>
