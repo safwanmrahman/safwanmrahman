@@ -29,5 +29,5 @@ My work spans **interactive algorithm visualizations, simulation systems, and la
 ## Activity 📈
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=safwanmrahman&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity&radius=8&height=300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=safwanmrahman&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
