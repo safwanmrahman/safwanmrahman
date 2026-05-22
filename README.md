@@ -8,7 +8,7 @@ My work spans **interactive algorithm visualizations, simulation systems, and la
 
 ## Skills & Tools 🛠️
 
-- **Languages:** C++, C, Python, Java, JavaScript, SQL, Bash, MATLAB  
+- **Languages:** C++, C, Python, R, Java, JavaScript, SQL, Bash, MATLAB  
 - **Core CS:** Data Structures & Algorithms, Graph Theory, Probability & Statistics, Linear Algebra, Optimization  
 - **Machine Learning:** PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV  
 - **Systems & Infra:** Kubernetes, Docker, Kubeflow, Linux/Unix, AWS-EC2  
